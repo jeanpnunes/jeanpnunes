@@ -6,10 +6,10 @@
 I'm Jean from Atlanta, Georgia and I create content to help others learn more about cybersecurity! I really enjoy learning how to better protect myself and organizations from outsider threats. I'm currently learning Cloud security and working on my CYSA+ certification. 
 
 ## Skills & Experience
-• HTML
-• Linux
-• PowerShell
-• DLP
+* HTML
+* Linux
+* PowerShell
+* DLP
 • SIEM
 • EDR
 • NIST
