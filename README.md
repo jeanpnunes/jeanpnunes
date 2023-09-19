@@ -19,7 +19,6 @@ I'm Jean from Atlanta, Georgia and I create content to help others learn more ab
 - 📫 How to reach me: Email @ jean.pnunes@gmail.com
 
 
-![cybersecurityGIF](https://github.com/jeanpnunes/jeanpnunes/assets/128649846/cd67f9f3-9428-41a9-aeb6-c824878c0f82)
 ![Tech Tuesday](https://github.com/jeanpnunes/jeanpnunes/assets/128649846/32d29d40-e6b2-43e5-8274-9011f2128bf1)
 
 
