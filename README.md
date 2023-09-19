@@ -1,10 +1,18 @@
+![Cybersecurity & Cloud Security](https://www.testpros.com/wp-content/uploads/2021/01/dfars-252-204-7012-featured-image.png)
+
 ### Hi there 👋, My name is **Jean Nunes**
 #### Cybersecurity & Cloud Security
-![Cybersecurity & Cloud Security](https://www.testpros.com/wp-content/uploads/2021/01/dfars-252-204-7012-featured-image.png)
 
 I'm Jean from Atlanta, Georgia and I create content to help others learn more about cybersecurity! I really enjoy learning how to better protect myself and organizations from outsider threats. I'm currently learning Cloud security and working on my CYSA+ certification. 
 
-Skills: / HTML / Linux / PowerShell / DLP / SIEM / EDR / NIST / 
+## Skills & Experience
+• HTML
+• Linux
+• PowerShell
+• DLP
+• SIEM
+• EDR
+• NIST
 
 - 🔭 I’m currently working on creating content that teaches cybersecurity to newbies 
 - 🌱 I’m currently learning Cloud & CySA+ 
